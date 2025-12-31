@@ -1,0 +1,7 @@
+DATA_DIR = "data/"
+MODEL_PATH = "model.pkl"
+
+TEST_SIZE = 0.2
+RANDOM_STATE = 42
+
+EPOCHS = 10
